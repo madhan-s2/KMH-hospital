@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@600&family=Staatliches&display=swap');
+*{
+    font-family: 'Caveat', cursive;
+    font-size:20px;
+}
+.abt h1 {
+    margin-left:410px;
+    
+}
+.content{
+    width:60%;
+    text-align:center;
+    margin:20px;
+    margin-top:-280px;
+    border:1px solid rgb(142, 142, 255);
+    padding:12px;
+    border-radius:2%;
+    box-shadow:2px 2px 2px 2px rgb(152, 185, 255);
+}
+.image{
+    margin-left:950px;
+
+}
+.who{
+    width:60%;
+    text-align:center;
+    margin:20px;
+}

@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@600&display=swap');
+.footer{
+    background-color:whitesmoke;
+    font-family: 'Mukta', sans-serif;
+    color:green;
+    position:relative;
+    text-align:center
+}
+.footer .footerTitle{
+    color:blue;
+    background-color:rgb(255, 145, 0)
+}
+.footer .social{
+    display:inline-flex;
+}
+.decoration{
+    list-style-type:none;
+    text-align:center
+}
+.headDecoration{
+    text-align:center
+}

@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+.title{
+    margin-top:33px;
+    margin-left:65px;
+    font-family: 'Roboto Slab', serif;
+}
+.contactHead{
+    float:right;
+    margin:0px 10px;
+    margin-top:-50px;
+}
+.contactHead a{
+    color:black;
+}
+.logo{
+    margin-top:-61px;
+}
+.vaccination{
+    
+    position:relative;
+    margin-top:-40px;
+    margin-left:50%;
+}
+.vaccination button{
+    border:2px solid black;
+    justify-content:center;
+    width:20%;
+}
+.vaccination p{
+    font-size:16px;
+    padding:5px;
+}
+.navbar{
+    border-top:1px solid black;
+    border-bottom:1px solid black;
+    background-color:whitesmoke;
+}
+.navbar ul{  
+    margin:12px;
+    margin-left:25%;
+    display:inline-flex;
+}
+.navbar li{
+    list-style-type: none;
+    padding:24px;
+    font-size:16px;
+    font-family: 'Roboto Slab', serif;
+}
+.navbar li:hover{
+    padding:12px;
+    border-top:2px solid #00cf23;
+    cursor:pointer;
+}

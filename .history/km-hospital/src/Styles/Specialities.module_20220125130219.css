@@ -1,0 +1,9 @@
+.title{
+    text-align:center;
+}
+.card{
+    border:2px solid #001529;
+}
+.card:hover{
+    border:2px solid #1890ff;
+}

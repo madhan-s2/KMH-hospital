@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@300&display=swap');.footer{
+    /* background-color:black; */
+    color:green;
+}
+
+.footerContent{
+    font-size:15px;
+    font-family: 'Mukta', sans-serif;
+}
+.footer .frontend{
+    width:15%;
+    margin-left:35%;
+    background-color:whitesmoke;
+    border-right:2px solid black;
+}
+.footer .backend{
+    margin-left:50%;
+    margin-top:-6.15%;
+}

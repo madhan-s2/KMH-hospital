@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&display=swap');
+*{
+    font-family: 'DancingScript';
+}
+.abt h1 {
+    margin-left:410px;
+}
+.content{
+    width:60%;
+    text-align:center;
+    margin:20px;
+    margin-top:-280px;
+    border:1px solid rgb(142, 142, 255);
+}
+.image{
+    margin-left:950px;
+
+}
+.who{
+    width:60%;
+    text-align:center;
+    margin:20px;
+}

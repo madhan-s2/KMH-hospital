@@ -1,0 +1,15 @@
+.title{
+    background-color:aqua;
+    margin-top:35px;
+    margin-left:65px;
+}
+.contactHead{
+    float:right;
+    margin:0px 10px;
+}
+.contactHead a{
+    color:black;
+}
+.logo{
+    margin-top:-40px;
+}

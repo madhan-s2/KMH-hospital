@@ -1,0 +1,14 @@
+.title{
+    text-align:center;
+}
+.card{
+    
+    text-align: center;
+}
+.card:hover{
+    border:2px solid #1890ff;
+}
+.locations{
+   
+    padding-left:5px;
+}

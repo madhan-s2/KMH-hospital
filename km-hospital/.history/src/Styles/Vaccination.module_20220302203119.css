@@ -1,0 +1,17 @@
+.tab{
+    width:60%;
+    margin:20px;
+    margin-left:300px; 
+    text-align:center;
+    border:2px solid #000
+}
+.form{
+    margin-left: 30%;
+    /* border:1px solid #1890ff; */
+    box-shadow: 10px 10px 10px #001529;
+    padding:12px;
+    border-radius:12px;
+    width:40%;
+    padding-top:30px;
+    margin-bottom:20px;
+}

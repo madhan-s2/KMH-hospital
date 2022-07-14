@@ -1,0 +1,18 @@
+GET http://localhost:5000/feedback/
+
+
+################################
+
+POST http://localhost:5000/feedback/createfeedback/
+Content-Type: application/json 
+
+{
+    "name":"Kavinbharathi",
+    "mobile_Number" : 9384592506,
+    "email_id" : "kavinbharathi@gmail.com",
+    "feedback" : "Good as kB"
+} 
+
+######################################
+
+DELETE http://localhost:5000/feedback/delete/61ebfd4c90c23d79771075e1

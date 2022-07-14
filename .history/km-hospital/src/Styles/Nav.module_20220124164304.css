@@ -1,0 +1,9 @@
+*{
+    margin:1px;
+}
+.head h1{
+    font-size: 30px;
+}
+.menubar .Menu.item{
+    margin-left:20%;
+}

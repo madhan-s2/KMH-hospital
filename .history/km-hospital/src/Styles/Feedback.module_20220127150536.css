@@ -1,0 +1,11 @@
+.card{
+    color:blue;
+    width:60%;
+
+    border:1px solid black;
+}
+.card .btn{
+
+
+margin-bottom:-43px;
+}

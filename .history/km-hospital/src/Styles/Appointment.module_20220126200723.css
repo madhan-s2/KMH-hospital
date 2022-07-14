@@ -1,0 +1,13 @@
+.form{
+    margin-left: 30%;
+    border:1px solid #1890ff;
+    box-shadow: 10px 10px 10px #001529;
+    padding:12px;
+    width:40%;
+    padding-top:20px;
+    margin-bottom:20px;
+}
+.form Button{
+    text-align: center;
+    margin-left: 150%;
+}

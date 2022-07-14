@@ -1,0 +1,10 @@
+.title{
+    text-align:center;
+}
+.card{
+    border:1px solid #001529;
+}
+.card:hover{
+    box-shadow:2px 2px 2px #001529;
+    border:2px solid #001529;
+}

@@ -1,0 +1,31 @@
+
+.title{
+
+    margin-top:33px;
+    margin-left:65px;
+}
+.contactHead{
+    float:right;
+    margin:0px 10px;
+    margin-top:-50px;
+}
+.contactHead a{
+    color:black;
+}
+.logo{
+    margin-top:-61px;
+}
+.vaccination{
+    position:relative;
+    margin-top:-40px;
+    margin-left:50%;
+}
+.navbar{
+    background-color:whitesmoke;
+}
+.navbar ul{
+    display:inline-flex;
+}
+.navbar li{
+    list-style-type: none;
+}
